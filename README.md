@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Unknown<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning new Framework<br>- ⚡ In my free time I create new things.</p>
+<p align="left">I'm from Unknown<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning new a Framework<br>- ⚡ In my free time I create new things.</p>
 
 ###
 
